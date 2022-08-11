@@ -86,7 +86,7 @@ class _HomepageState extends State<Homepage> {
     return Scaffold(
       backgroundColor: thewhite,
       appBar: AppBar(
-        elevation: 0,
+        elevation: 0,  
         backgroundColor: theblue,
         actions: [
           FadeIn(
